@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/VasiaReact1/static/css/main.073c9b0a.css",
+    "main.js": "/VasiaReact1/static/js/main.c8ceb532.js",
+    "static/js/787.b0b08420.chunk.js": "/VasiaReact1/static/js/787.b0b08420.chunk.js",
+    "static/media/logo.svg": "/VasiaReact1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/VasiaReact1/index.html",
+    "main.073c9b0a.css.map": "/VasiaReact1/static/css/main.073c9b0a.css.map",
+    "main.c8ceb532.js.map": "/VasiaReact1/static/js/main.c8ceb532.js.map",
+    "787.b0b08420.chunk.js.map": "/VasiaReact1/static/js/787.b0b08420.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c8ceb532.js"
+  ]
+}
